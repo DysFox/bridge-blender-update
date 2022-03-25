@@ -19,5 +19,5 @@ A project to update Quixel's Bridge Blender Plugin to work with newer versions o
  3. If you do not already have one, create a folder called 'scripts' without the quotes.
  4. Inside scripts, if you do not already have one, create a folder called 'startup' without the quotes.
  5. Inside startup, create a folder called 'MSPlugin' without the quotes.
- 6. Place the downloaded __init__.py in the newly created folder.
+ 6. Place the downloaded \_\_init\_\_.py in the newly created folder.
  7. Launch Blender and import something from Bridge!
