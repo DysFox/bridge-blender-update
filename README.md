@@ -14,7 +14,7 @@ A project to update Quixel's Bridge Blender Plugin to work with newer versions o
  - Blender 3.1
 
 ## Install instructions
- 1. Download the latest release from here.
+ 1. Download the latest release from [here](https://github.com/DysWhite/bridge-blender-update/releases/tag/v1).
  2. Go to AppData/Roaming/Blender Foundation/<your blender version>
  3. If you do not already have one, create a folder called 'scripts' without the quotes.
  4. Inside scripts, if you do not already have one, create a folder called 'startup' without the quotes.
